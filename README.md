@@ -37,7 +37,8 @@ A responsive image grid layout using HTML and CSS. This project displays a grid 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/7c37f39b-5870-405c-9e53-31196987b1be" />
 
 2. Mobile view
-   <img width="587" alt="image" src="https://github.com/user-attachments/assets/53633bbf-f714-4fcf-b5e2-89c73d913bdc" />
+   
+<img width="587" alt="image" src="https://github.com/user-attachments/assets/53633bbf-f714-4fcf-b5e2-89c73d913bdc" />
 
 
 
